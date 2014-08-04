@@ -4,7 +4,7 @@ title: Testing test!
 ---
 
 dies ist ein test
-{% highlight ruby %}
+{% highlight ruby linenos %}
 def foo
   puts 'foo'
 end
