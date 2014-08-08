@@ -24,9 +24,11 @@ body {
 }
 
 .container {
-  margin: 0 auto;
-  max-width: 740px;
-  padding: 0 10px;
+	position: relative;
+padding-top: 50px;
+margin-top: 0;
+margin-bottom: 0;
+  max-width: 520px;
   width: 100%;
 }
 
