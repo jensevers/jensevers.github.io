@@ -24,11 +24,10 @@ body {
 }
 
 .container {
-	position: relative;
-padding-top: 50px;
+
+
 margin-top: 0;
 margin-bottom: 0;
-padding-left: 50px;
   max-width: 520px;
   width:100%;
 }
@@ -155,6 +154,12 @@ img {
 }
 
 .masthead {
+		position: relative;
+padding-top: 50px;
+margin-top: 0;
+margin-bottom: 0;
+  max-width: 520px;
+  width:100%;
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
   
