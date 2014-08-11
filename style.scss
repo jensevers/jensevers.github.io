@@ -18,7 +18,6 @@ html {
 }
 
 body {
-	position:absolute;
   background: $white;
   font-family: "source-sans-pro",sans-serif;
   color: #222;
@@ -154,12 +153,13 @@ img {
 //
 
 .wrapper-masthead {
+	position:absolute;
   margin-bottom: 50px;
   margin: 0px auto;
 }
 
 .masthead {
-		position: relative;
+position: relative;
 padding-top: 50px;
 margin-top: 0;
 margin-bottom: 0;
