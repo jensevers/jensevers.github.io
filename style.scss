@@ -29,6 +29,10 @@ body {
   margin: 0 auto;
   max-width: 520px;
   width:100%;
+  
+   @include mobile {
+    margin-left: 15px;
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {
