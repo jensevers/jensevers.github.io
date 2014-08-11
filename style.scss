@@ -50,7 +50,7 @@ h1, h2, h3, h4, h5, h6 {
 }
   
 h1 {  
-  font-weight: 500;
+  font-weight: 400;
   font-size: 32px;
   a {
     color: inherit;
@@ -58,7 +58,7 @@ h1 {
 }
 
 h2 {  
-  font-weight: 400;
+  font-weight: 200;
   font-size: 24px;
 }
 
@@ -154,6 +154,7 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
+  margin: 0px auto;
 }
 
 .masthead {
